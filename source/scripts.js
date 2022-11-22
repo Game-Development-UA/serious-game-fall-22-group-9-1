@@ -14,4 +14,16 @@ using FileSystem.Collections.Generic;
 using FileSystem.Lineq;
 using FileSystem.Text;
 
-name
+namespace TextadKorea
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            gameTitle(Korea);
+            First();
+
+        }
+        /*
+    }
+}
