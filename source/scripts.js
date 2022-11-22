@@ -6,4 +6,12 @@ config.ui.stowBarInitially = true;
 config.history.controls = false;
 */
 /*
-* C# Program
+* C# Program to Demonstrate adventure game
+*/
+
+using FileSystem;
+using FileSystem.Collections.Generic;
+using FileSystem.Lineq;
+using FileSystem.Text;
+
+name
